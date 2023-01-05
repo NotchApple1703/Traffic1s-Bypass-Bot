@@ -24,4 +24,4 @@ async def help(ctx):
 
 
 if __name__ == "__main__":
-    bot.run("MTA2MDQ1NDkwMTg5OTA2NzM5Mg.GO1pQ6.CzQo2RoQhxs9Ri26rXDuGCoZhd7Evmlj8-ArVI")
+    bot.run(f"{token}")
